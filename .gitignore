@@ -1,0 +1,25 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+
+# Folders to ignore
+node_modules
+test
+site
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache

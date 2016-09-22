@@ -1,6 +1,6 @@
 {
   "name": "build-assets",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "assembles and orchestrates your dependencies so you can run them through your asset pipeline.",
   "main": "index.js",
   "author": {
@@ -11,15 +11,14 @@
   },
   "keywords": [
     "javascript",
-    "boilerplate",
+    "dependency",
+    "pipeline",
+    "manifest",
+    "asset",
     "npm",
     "build",
     "tasks",
-    "conventions",
-    "browser",
-    "package",
-    "module",
-    "standards"
+    "package"
   ],
   "license": "MIT",
   "homepage": "https://github.com/1mgio/build-assets",
